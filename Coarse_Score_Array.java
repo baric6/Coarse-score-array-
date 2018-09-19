@@ -1,5 +1,5 @@
 /*
- * Joe_hollon
+ * 
  * cis_2212_tuseday_class
  * Due_tuseday_sept_8_2018
  * Coarse_Scores_In_Arrays
